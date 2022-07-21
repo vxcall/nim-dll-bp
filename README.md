@@ -22,7 +22,7 @@ nim c injected.nim
 
 Analysis by die
 
-[die](https://user-images.githubusercontent.com/33578715/180053570-65671cbf-d7bf-41e3-b28f-458047415718.png)
+![die](https://user-images.githubusercontent.com/33578715/180053570-65671cbf-d7bf-41e3-b28f-458047415718.png)
 
 # reference
 
